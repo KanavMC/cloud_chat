@@ -1,2 +1,4 @@
 streamlit
+bcrypt
 google-cloud-storage
+python-dotenv
