@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "kids-code-lab-kb",
+  "private_key_id": "b016c6b4c40c01f04f4100136d810107702c25eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKVgU7Ai+bhx8F\nJP7AiJx3ocg1EgA05NcRIp2XPVp1LgbSS82kAOJXdvmZN5KwIodKwRo3o9HbijTz\nLqD7EXrNXu0JxMnGq91MSDCo+Ssjic/haOY1NgvglPDsL0fINsyzefJzOXImFCzu\nQXIrxGT9qkIgat85ZVuLZ8Re6l/xz1PvQ2bMjXaFirz7SbH4GUan4huKa+462QrP\nwtXW2v1oSgbSdaHcX11e84QrU7kOM5OjhIdNEzpBM3E+q0BKZX01Xv28U6NShH+6\nxsLLKqMfXCRTwqApC5uFDqCWYDHrwtOwOWbkt7mBOVfDB6ZeRnuTv8P21NOZ1na3\nICCP7pXhAgMBAAECgf9MpW4w4SRWadB6FODw32yrERBdnd8bFqOrh5KUyn3uqCb5\nrIm65DN3CZb8FJ6z+iVhAOo2Jw/PdpZavp8hkCYpo2gz5280TPySrKOQ/FJezJvP\nHHFJaprclvGUJDJ1jht1l5YwPpPbahpbF/IODCd/YSW8xuaeonuJ6FntWpjnkCqN\n/wSfhm/KzMMjHqeTI1Blnsy5zquwHfKaw5XvRrE8KPNHhqImMoe++fmrys8BMa2x\nUrB6SKSfQwXtkvxdejVQK+iSH5QK8saeKfzT2XJ6dHWG88k+MZC8GbVJVp8/oZDc\nfH4qjoOCf/rr0vl1Tz6B9U7YMdbqqevR1/wYB4ECgYEA7rGcA4kgT9iSj8O1A2bG\nQ+YFKSzmIydmU/xmq2Dw1uNZGhKu3j2yzL/qOw/2MZXNOE/KUcoh9R12UtxBqfsR\nnQYAua3ZztzFjP8XrvMfC6OuRw3IOaafpIYzK0deU6Uam3tIyBgJnDbuHx1a7ydf\n34uyb0fQidw8gRKMBMIU9UECgYEA2QGTPqaZC5eLLZLdaHd/v/isVuuJfkeS/6X8\n0fivN/dQNKD5Nu3lmKbwIXZxrGfbFEMIvPK8j5he7rJDo33Wbf6Ezv90OFw96Q1y\n67XaaRF0vXpMRW1/CdqQ7qVaAs0Tst1e3OpF2TCe/H6lCJu/GX/ygWIpqTQ4WI2h\nlTXyWKECgYEAl/bDmQyoYa1EQfsbNzsrZvb+uiQ3sJHY+AdtZhalvmmnxI24fw1Q\n1EIq4cdbul3g9cT2zfOegutq9X384DdUE2BK/evNC4JK02VksqFeVo6y2dHQc8O9\nR4WY9ijNyPsIYYyv3ZRQKgBewbhyuGedBjluNKLIBb0NWC9yrWTS6wECgYEAsd4l\np4N8DFFRZbBsRBU2o84azD/Q+a2G4n5WBHC2hcPzfL+4pXpG52Flj7f6olqZ6jir\nr9uyDGzS2wlIgXhCSvQEPXqK8ytAH4bDfEoZVGdXbXsRixKdvyDkDIeBiKw5CjGC\ncMahK807czAG61BlSWxjBAPGrAa+bG7iU1/dXSECgYEAgh70L57fVtaLbyYXhBsd\ngYVGF09WZJKquAH315mXGPAXsTTsr5JV2amRTKwoNsFdoC+o5d+WFWJKpfHEV3VE\nsu0R8qiDA/QYAXuQf7DCGZ8uBlPJCMgsLdIyRvCwMHSEc1+YrM9rniUDaFYtzq2J\nwEazVedONPCwTs5OIX6Cpqw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kanav-chat-app-373@kids-code-lab-kb.iam.gserviceaccount.com",
+  "client_id": "103592148042531217903",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kanav-chat-app-373%40kids-code-lab-kb.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
